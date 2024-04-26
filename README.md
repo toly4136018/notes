@@ -21,7 +21,7 @@
 | Project                                       | Wallet - Acc        | Notes
 | :------------------------------------         |     :---            |          ---: |
 |                                               |                     |       
-| [BlackPanter](https://dojo.trading/atomic)    |      pic16f874                           
+| [BlackPanter](https://dojo.trading/atomic)    |                     |                          
 |                                               |                     |       
 
 </details>
